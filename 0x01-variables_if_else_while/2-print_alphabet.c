@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - Entry point 
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
@@ -12,12 +12,12 @@ int main(void)
 	char r;
 
 	r = 'a';
-	while 
-		(r <= 'z'){
+	while
+		(r <= 'z') {
 			putchar(r);
 			r++;
 		}
-	putchar('\n');
-	
+	putchar('\n')i;
+
 	return (0);
 }

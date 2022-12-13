@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * mmain - check description
- * Description:prints _putchar, followed by a new line
- * Return: Always 0(Success)
+ * main - check description
+ * Description: prints _putchar, followed by a new line
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

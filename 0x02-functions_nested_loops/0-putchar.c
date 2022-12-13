@@ -2,7 +2,7 @@
 /**
  * mmain - check description
  * Description:prints _putchar, followed by a new line
- * Return  0
+ * Return: Always 0
  */
 int main(void)
 {

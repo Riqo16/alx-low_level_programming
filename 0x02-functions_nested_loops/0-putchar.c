@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * mmain - check description 
+ * mmain - check description
  * Description:prints _putchar, followed by a new line
  * Return  0
  */
